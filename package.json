@@ -1,13 +1,4 @@
 {
-  "name": "my-app",
-  "version": "1.0.0",
-  "description": "My awesome app",
-  "main": "worker.js",
-  "scripts": {
-    "build": "echo 'No build script specified'"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {}
+  "name": "static-site",
+  "version": "1.0.0"
 }
