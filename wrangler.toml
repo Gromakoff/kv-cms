@@ -1,5 +1,6 @@
-name = "my-worker"
+name = "kv-cms"
 main = "worker.js"
-compatibility_date = "2025-07-16"   # или актуальная дата
+account_id = "114cac2a6d788a06db81f5ca4e797f75"
+compatibility_date = "2025-07-17"
 
 
